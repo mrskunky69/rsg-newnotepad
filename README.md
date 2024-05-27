@@ -1,6 +1,7 @@
 # RexshackGaming
 - discord : https://discord.gg/s5uSk56B65
 - github : https://github.com/Rexshack-RedM
+- optimised model loads
 
 # Dependancies
 - rsg-core
